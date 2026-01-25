@@ -25,4 +25,4 @@ func main() {
     fmt.Println(isPalindrome(4554) == true);
 }
 
-// go run ./golang/PalindromeNumber.go
+// go run ./golang/PalindromeNumber/PalindromeNumber.go

@@ -45,3 +45,5 @@ console.log(searchRange([], 0));
 console.log(searchRange([5, 7, 7, 8, 8, 10], 6));
 console.log(searchRange([1], 1));
 console.log(searchRange([3,3,3], 3));
+
+// node ./js/FirstAndLastInSorted.js
